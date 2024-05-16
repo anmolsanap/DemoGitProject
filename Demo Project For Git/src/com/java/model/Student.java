@@ -13,9 +13,15 @@ public class Student {
 		studentService.m1();
 	}
 
+
+	public void m3()
+	{
+		System.out.println("m3--Student");
+  }
 	public void m2()
 	{
 		System.out.println("m2--Student");
+
 		
 	}
 	
