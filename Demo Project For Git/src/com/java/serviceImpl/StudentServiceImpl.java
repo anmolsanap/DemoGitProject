@@ -16,4 +16,10 @@ public class StudentServiceImpl implements StudentService{
 		return x+y;
 	}
 
+	@Override
+	public int subtraction(int x, int y) {
+		System.out.println(x+y);
+		return x+y;
+	}
+
 }
