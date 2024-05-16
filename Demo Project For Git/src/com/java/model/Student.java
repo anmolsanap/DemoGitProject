@@ -19,4 +19,10 @@ public class Student {
 		System.out.println(x+y);
 		return x+y;
 	}
+	public int subtraction(int x, int y)
+	{
+		int z =studentService.subtraction(x,y);
+		System.out.println(x+y);
+		return x+y;
+	}
 }
