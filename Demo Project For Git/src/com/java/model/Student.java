@@ -12,6 +12,12 @@ public class Student {
 		System.out.println("m1--Student");
 		studentService.m1();
 	}
+
+	public void m3()
+	{
+		System.out.println("m3--Student");
+		
+	}
 	
 	public int addition(int x, int y)
 	{
